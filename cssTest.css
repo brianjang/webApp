@@ -1,0 +1,51 @@
+h1 {
+	color: #FF0000;
+	/*select color by hex value*/
+
+	/*border-color: rgb(170, 0, 0);
+	border-width: 5px;
+	border-style: solid;*/
+	border: 5px solid rgb(170, 0, 0);
+	/*set border*/
+}
+
+h2 {
+	color: rgba(100, 0, 100, .7);
+	/*alpha channel value from 0.0 to 1.0*/
+}
+
+h3 {
+	color: rgba(100, 0, 100, .3);
+	/*alpha channel value from 0.0 to 1.0*/
+}
+
+h4 {
+	color: rgb(100, 0, 100);
+	/*select color by rgb function*/
+	background: rgb(200, 100, 0);
+}
+
+li {
+	color: rgba(100, 0, 100, .6);
+	/*alpha channel value from 0.0 to 1.0*/
+	border: 5px solid rgb(255, 0, 0);
+}
+
+body {
+	/*background: rgb(184,134,11);*/
+	background: url(http://dendro.cnre.vt.edu/dendrology/images/Abies%20balsamea/wood.jpg);
+	background-repeat: no-repeat; 
+	/*we don't want tile style*/
+	background-size: cover;
+	/*streach image to fix whole screen*/
+}
+
+/*for id attribute*/
+#yellowbg {
+	background: yellow;
+}
+
+/*for class attribute*/
+.completed {
+	text-decoration: line-through;
+}
