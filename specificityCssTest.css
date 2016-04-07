@@ -1,0 +1,9 @@
+/*for testing inherits and specificity*/
+
+/*li {
+	color: purple;
+}*/
+
+body {
+	color: red;
+}
