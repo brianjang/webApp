@@ -1,0 +1,73 @@
+<!DOCTYPE html>	
+
+<!-- Goal :
+form
+input
+label
+write simple validations -->
+
+<html>
+<head>
+	<title>Form Demo</title>
+</head>
+<body>
+<h1>Sign in</h1>
+	<!-- <form action="/send_request_to_back_end" method="post"> -->
+	<form>
+		<label>Username: <input name="un" type="text" placeholder="user name"></label>
+		
+		<label>Password: <input name="pw" type="password" placeholder="password"></label>
+		
+		<button>Log in</button>
+		<input type="submit">
+	</form>
+
+<h1>labed for : input id</h1>
+	<form>
+		<label for="username">Username: </label>
+		<input id="username" name="un" type="text" placeholder="user name" required>
+
+		<label for="email">Email: </label>
+		<input id="email" name="email" type="email">
+
+		<label for="password">Password: </label>
+		<input id="password" name="pw" type="password" placeholder="password" required>
+
+		<button>Log in</button>
+	</form>
+
+	<input type="color">
+	<input type="radio">
+
+
+<!-- ================
+Radio, Select, text, textarea
+================ -->
+	<h1>Radio, Select, text, textarea</h1>
+		<form>
+		<label for="dogs">Dogs: </label>
+		<input name="petChoice" id="dogs" type="radio" value="DOGS">
+
+		<label for="cats">Cats:</label>
+		<input name="petChoice" id="cats" type="radio" value="CATS">
+
+	<h1>Select</h1>
+		<p>What's your current mood?</p>
+
+		<select name="mood">
+			<option value="happy">:)</option>
+			<option value="neutral">:|</option>
+			<option value="sad">:(</option>
+		</select>	
+
+	<h1>text</h1>
+		<input type="text">
+
+	<h1>textarea</h1>
+		<textarea name="paragraph" rows="10" cols="10"></textarea>
+
+		<button>Go!</button>
+	</form>
+
+</body>
+</html>
