@@ -12,3 +12,9 @@ http://www.colorpicker.com/
 
 http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 => css selector
+
+http://www.cssfontstack.com/
+=> css font 
+
+https://www.google.com/fonts
+=> google fonts
