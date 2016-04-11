@@ -18,3 +18,9 @@ http://www.cssfontstack.com/
 
 https://www.google.com/fonts
 => google fonts
+
+http://getbootstrap.com/
+=> bootstrap
+
+http://code.jquery.com/
+=> jquery
