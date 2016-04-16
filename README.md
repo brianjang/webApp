@@ -24,3 +24,6 @@ http://getbootstrap.com/
 
 http://code.jquery.com/
 => jquery
+
+https://fortawesome.github.io/Font-Awesome/
+=> the iconic fond and css toolkit
