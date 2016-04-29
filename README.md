@@ -27,3 +27,9 @@ http://code.jquery.com/
 
 https://fortawesome.github.io/Font-Awesome/
 => the iconic fond and css toolkit
+
+http://jquery.com/
+=> jquery
++++
+http://youmightnotneedjquery.com/
+=> compare jquery with non-jquery code
