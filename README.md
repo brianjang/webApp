@@ -33,3 +33,9 @@ http://jquery.com/
 +++
 http://youmightnotneedjquery.com/
 => compare jquery with non-jquery code
+
+http://uigradients.com/
+=> color gradiants
+
+https://fortawesome.github.io/Font-Awesome/
+=> vector icons for css
