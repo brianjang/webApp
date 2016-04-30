@@ -11,3 +11,12 @@
 	color: gray;
 	text-decoration: line-through;
 }
+
+div {
+	width: 100px;
+	height: 100px;
+	background: teal;
+	float: left; 
+	margin: 20px;
+	/*display: none;*/ //comment this line if you test "slideUp() or slideToggle()"
+}
